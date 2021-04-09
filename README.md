@@ -1,5 +1,7 @@
 # Extensions and `::` operator
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 ## Proposal status
 
 This is an ECMAScript (JavaScript) proposal in stage 1.
